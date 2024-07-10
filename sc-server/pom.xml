@@ -13,7 +13,6 @@
         <java.version>11</java.version>
     </properties>
     <dependencies>
-
         <dependency>
             <groupId>com.goingkeep</groupId>
             <artifactId>sc-common</artifactId>
